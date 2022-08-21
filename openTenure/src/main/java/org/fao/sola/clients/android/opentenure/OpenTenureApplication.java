@@ -85,12 +85,14 @@ public class OpenTenureApplication extends MultiDexApplication {
 	private static final String _ARABIC_LOCALIZATION = "ar-JO";
 	private static final String _BURMESE_LOCALIZATION = "my-MM";
 	private static final String _SAMOAN_LOCALIZATION = "sm-WS";
+	private static final String _TONGAN_LOCALIZATION = "to-TO";
 	private String localization;
 	private Locale locale;
 	private boolean khmer = false;
 	private boolean albanian = false;
 	private boolean burmese = false;
 	private boolean samoan = false;
+	private boolean tongan = false;
 	private static boolean loggedin;
 	private static String username;
 	private static Activity activity;
@@ -566,6 +568,14 @@ public class OpenTenureApplication extends MultiDexApplication {
 		this.samoan = samoan;
 	}
 
+	public boolean isTongan() {
+		return tongan;
+	}
+
+	public void setTongan(boolean tongan) {
+		this.tongan = tongan;
+	}
+
 	public void setLocalization(Locale locale) {
 
 		Resources.getSystem().getConfiguration().setLocale(locale);
@@ -586,6 +596,9 @@ public class OpenTenureApplication extends MultiDexApplication {
 
 			localization = OpenTenureApplication._SAMOAN_LOCALIZATION;
 
+		} else if (isTongan()) {
+
+			localization = OpenTenureApplication._TONGAN_LOCALIZATION;
 
 		} else if (locale.getLanguage().toLowerCase(locale).equals("ar")) {
 

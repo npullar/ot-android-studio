@@ -31,11 +31,11 @@ import android.content.SharedPreferences;
 import android.util.Log;
 
 public class OpenTenurePreferencesMigrator {
-	
+
 	private static final String VERSION_1_1_0 = "1.1.0";
 
 	public static void migratePreferences(SharedPreferences preferences, String currentVersion, String newVersion){
-		
+
 		if(VERSION_1_1_0.compareTo(currentVersion)>0
 				&& VERSION_1_1_0.compareTo(newVersion)<=0){
 			migratePreferences_1_1_0(preferences);
@@ -46,11 +46,11 @@ public class OpenTenurePreferencesMigrator {
 		editor.putString(OpenTenurePreferencesActivity.SOFTWARE_VERSION_PREF, newVersion);
 		editor.commit();
 	}
-	
+
 	public static void migratePreferences_1_1_0(SharedPreferences preferences){
 
 		String language = OpenTenure.default_language;
-		
+
 		if(preferences.getBoolean(OpenTenure.albanian_language, false)){
 			language = OpenTenure.albanian_language;
 		}
@@ -60,10 +60,13 @@ public class OpenTenurePreferencesMigrator {
 		if(preferences.getBoolean(OpenTenure.samoan_language, false)){
 			language = OpenTenure.samoan_language;
 		}
+		if(preferences.getBoolean(OpenTenure.tongan_language, false)){
+			language = OpenTenure.tongan_language;
+		}
 		SharedPreferences.Editor editor = preferences.edit();
 		editor.putString(OpenTenure.language, language);
 		editor.commit();
-		
+
 		String csUrl = preferences.getString(
 				OpenTenurePreferencesActivity.CS_URL_PREF, "") ;
 		String formUrl = preferences.getString(
