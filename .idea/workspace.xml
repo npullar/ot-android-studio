@@ -13,69 +13,195 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b216386-a9d6-496a-b7bd-d0f8f5667df2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_h2_1_3_175_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_httpcore_4_3_2_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_httpmime_4_3_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_jackson_annotations_2_4_2_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_jackson_core_2_4_2_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_jackson_databind_2_4_2_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_jts_1_14_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__SOLA_Project_GIT_SOLA_open_tenure_ot_android_studio_openTenure_libs_zip4j_1_3_2_jar_unspecified_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_22_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_mediarouter_v7_22_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_instrumentation_1_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_21_0_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_22_2_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_21_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_22_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_appindexing_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_appinvite_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_appstate_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_cast_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_drive_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_fitness_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_games_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_gcm_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_identity_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_nearby_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_panorama_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_plus_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_vision_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_wallet_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_wearable_8_3_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_4_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_maps_android_android_maps_utils_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_multidex_1_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_maps_android_android_maps_utils_0_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_maps_android_android_maps_utils_0_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/support/group-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/support/group-index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/android/gms/group-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/google/android/gms/group-index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aFileChooser/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/aFileChooser/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aFileChooser/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aFileChooser/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/openTenure-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/openTenure-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/generated/source/buildConfig/debug/org/fao/sola/clients/android/opentenure/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-am.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-az-rAZ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-bn-rBD.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-cs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-el.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-et-rEE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-eu-rES.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-gl-rES.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-gu-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-h720dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-hy-rAM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-in.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-is-rIS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-iw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ka-rGE.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-kk-rKZ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-km-rKH.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-kn-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ky-rKG.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-land.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-large-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-lo-rLA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-lt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-lv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-mk-rMK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ml-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-mn-rMN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-mr-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ms-rMY.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-my-rMM.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-nb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ne-rNP.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-pa-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-port.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-si-rLK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sq-rAL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-sw600dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ta-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-te-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-tl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-uk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-ur-rPK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-uz-rUZ.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-v11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-v12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-v14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-v17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-v18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-w360dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-w480dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-w500dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-w600dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-w720dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-xlarge-land-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-xlarge-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-zu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/classes/debug/org/fao/sola/clients/android/opentenure/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/classes/debug/org/fao/sola/clients/android/opentenure/OpenTenure$SectionsPagerAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/packageDebug/debug/zip-cache/aLozJP0zNxBF9uiIjdtqysOijek=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/packageDebug/debug/zip-cache/adAhuUs84PFNBNMT8ouYC4SqyOE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/manifests/full/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/manifests/instant-run/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/res/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/307.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/308.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/309.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/310.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/312/org/fao/sola/clients/android/opentenure/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/312/org/fao/sola/clients/android/opentenure/OpenTenure$SectionsPagerAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/32.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/35.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/36.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/37.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/38.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/39.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/openTenure-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ot-android-studio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ot-android-studio.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,14 +295,20 @@
     <property name="ExportApk.SignV2" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="android.project.structure.last.selected" value="openTenure" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../../../Android/sdk" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/sdk" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560757590209" />
     <property name="device.picker.selection" value="Nexus_7_API_23" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/openTenure/src/main/res/drawable-xxhdpi" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/keys/ot-android-studio.jks" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1661118673489" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.0.1" />
     <property name="sync.plugin.last.upgrade.timestamp" value="1558341703767" />
   </component>
@@ -196,7 +328,15 @@
       <recent name="C:\SOLA\Project\GIT\SOLA\open_tenure\ot-android-studio\openTenure\src\main\res\drawable-hdpi" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.openTenure">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -253,14 +393,6 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -268,13 +400,13 @@
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -318,22 +450,80 @@
         <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
       </method>
     </configuration>
-    <configuration name="openTenure" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="ot-android-studio.openTenure" />
+    <configuration name="openTenure" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="ot-android-studio.openTenure.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Callstack Sample" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
+      </method>
+    </configuration>
+    <configuration name="All Tests" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="ot-android-studio.aFileChooser" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
@@ -367,12 +557,9 @@
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
       </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -383,10 +570,12 @@
       <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
       <option name="EXTRA_OPTIONS" value="" />
       <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
-      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
@@ -432,49 +621,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ot-android-studio" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="openTenure" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -488,7 +661,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Android App.openTenure" />
+      <item itemvalue="Gradle.ot-android-studio" />
+      <item itemvalue="Android Instrumented Tests.All Tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.All Tests" />
+        <item itemvalue="Gradle.ot-android-studio" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
   </component>
@@ -513,6 +698,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -525,48 +722,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="102" y="100" width="1449" height="834" key="AVDManager" timestamp="1608192669763">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="102" y="100" width="1449" height="834" key="AVDManager/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608192669763" />
-    <state x="605" y="271" key="FileChooserDialogImpl" timestamp="1613541452212">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="605" y="271" key="FileChooserDialogImpl/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613541452212" />
-    <state width="1589" height="403" key="GridCell.Tab.0.bottom" timestamp="1613752316698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.0.bottom/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316698" />
-    <state width="1589" height="403" key="GridCell.Tab.0.center" timestamp="1613752316698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.0.center/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316698" />
-    <state width="1589" height="403" key="GridCell.Tab.0.left" timestamp="1613752316698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.0.left/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316698" />
-    <state width="1589" height="403" key="GridCell.Tab.0.right" timestamp="1613752316698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.0.right/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316698" />
-    <state width="1589" height="403" key="GridCell.Tab.1.bottom" timestamp="1613752316699">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.1.bottom/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316699" />
-    <state width="1589" height="403" key="GridCell.Tab.1.center" timestamp="1613752316699">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.1.center/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316699" />
-    <state width="1589" height="403" key="GridCell.Tab.1.left" timestamp="1613752316698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.1.left/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316698" />
-    <state width="1589" height="403" key="GridCell.Tab.1.right" timestamp="1613752316699">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1589" height="403" key="GridCell.Tab.1.right/1920.-5.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1613752316699" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
