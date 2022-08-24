@@ -27,7 +27,7 @@
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/build/generated/source/buildConfig/debug/org/fao/sola/clients/android/opentenure/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/generated/source/buildConfig/debug/org/fao/sola/clients/android/opentenure/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build/generated/source/buildConfig/debug/org/fao/sola/clients/android/opentenure/BuildConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-af.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/multi-v2/values-am.json" beforeDir="false" />
@@ -130,9 +130,9 @@
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/classes/debug/org/fao/sola/clients/android/opentenure/BuildConfig.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/classes/debug/org/fao/sola/clients/android/opentenure/OpenTenure$SectionsPagerAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" beforeDir="false" />
@@ -198,9 +198,9 @@
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/openTenure-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/openTenure-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/openTenure-debug.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/apk/debug/output.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openTenure/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/openTenure/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ot-android-studio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ot-android-studio.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
